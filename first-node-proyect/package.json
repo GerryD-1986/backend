@@ -1,0 +1,19 @@
+{
+  "name": "first-node-proyect",
+  "version": "0.0.1",
+  "description": "\"this is my first node project\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "learn",
+    "firstProject"
+  ],
+  "author": "Gerardo Diaz",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
